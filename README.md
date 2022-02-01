@@ -3,6 +3,7 @@
 - C'est un projet portant sur  la gestion des devoirs basé sur angular et NodeJs.
 
 ✔Fonctionnalités du travail réalisé:
+
 🥇la gestion de l'authetification avec  un formulaire  (login ,mot de passe et bouton de connexion).
 
 🥇 L'ajout des propriété (auteur, matière...) au modèle.
