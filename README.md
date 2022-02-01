@@ -18,9 +18,14 @@
 
 🥇 L'ajout du SnackBar Material qui s'affiche après chaque action (ajout, modification, suppression, et Peupler).
 
+🥇 DeploiEment sur HEROKU;
+
 ✔Groupe de travail :
 - AANAYA Nouhaila
 - BOUANOU Soumaya
 - CHAH Asmae
 
 Voici la video qui démonstre la réalisation du projet : https://youtu.be/mpde5vRDaHY
+
+Le lien du deploiment  backend : https://backend-assignment-app.herokuapp.com/api/assignments
+
