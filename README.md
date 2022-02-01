@@ -7,7 +7,7 @@
 
 - 🥇 L'ajout des propriété (auteur, matière...) au modèle.
 
-- 🥇 L'amélioration de l'affichage des devoirs :
+🥇 L'amélioration de l'affichage des devoirs :
 - Le scrolling infini avec des  boutons de pagination custom.
 - Faire les differentes mises à jours.
 - Afficher le détail du devoir.
