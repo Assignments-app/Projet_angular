@@ -20,12 +20,30 @@
 
 🥇 DeploiEment sur HEROKU;
 
-✔Groupe de travail :
+✔ Groupe de travail :
 - AANAYA Nouhaila
 - BOUANOU Soumaya
 - CHAH Asmae
 
 Voici la video qui démonstre la réalisation du projet : https://youtu.be/mpde5vRDaHY
 
-Le lien du deploiment  backend : https://backend-assignment-app.herokuapp.com/api/assignments
+- Le deploiement du backend sur  heroku : https://backend-assignment-app.herokuapp.com/api/assignments
+
+
+✔ Pour l'authentification en tant qu'admin  utilisez :
+
+- Username :  admin , Password : admin
+
+✔ Pour l'authentification en tant qu'utilisateur utilisez :
+
+- Username :  user , Password : user
+
+✔ Liens sources :
+
+-  https://docs.google.com/presentation/d/1O8cIb5iqlt9ZqG5zEmETnK-hAxBOGsUe0M1xm61sb2U/edit#slide=id.p
+
+-  https://www.youtube.com/watch?v=MKlA3w0yBq0
+
+
+
 
