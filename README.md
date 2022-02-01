@@ -38,12 +38,14 @@ Le scrolling infini avec des boutons de pagination custom.
 -ng serve  sur le terminal du client 
 
 ✔ Pour l'authentification en tant qu'admin utilisez :
+- Username : admin , Password : admin
 - Un admin a le droit de visualiser la liste des assignments , d'ajouter un nouvel assignement ,de modifier et de supprimer 
-Username : admin , Password : admin
+
 
 ✔ Pour l'authentification en tant qu'utilisateur utilisez :
+- Username : user , Password : user
 - Un utilisateur peut visualiser la liste des assignments
- Username : user , Password : user
+
 
 ✔Groupe de travail :
 
